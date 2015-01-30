@@ -15,8 +15,8 @@ We can ship to all of these places, so you can safely use this list in a dropdow
 
 ## Known differences from ISO-3166
 
-This list uses country names and codes from the Netherlands Antilles (rather than the Caribbean Netherlands).
-This list contains Zaire.
-This list does not contain around 30 countries that our partner carriers do not offer shipping to.
+- This list uses country names and codes from the Netherlands Antilles (rather than the Caribbean Netherlands).
+- This list contains Zaire.
+- This list does not contain around 30 countries that our partner carriers do not offer shipping to.
 
-These differences are present in the lists that we've received from FedEx, USPS and UPS.
+These differences are present in the lists that we've received from the carriers.
