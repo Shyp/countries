@@ -320,6 +320,11 @@
     "alpha-3": "SLV"
   },
   {
+    "name": "England",
+    "alpha-2": "GB",
+    "alpha-3": "GBR"
+  },
+  {
     "name": "Equatorial Guinea",
     "alpha-2": "GQ",
     "alpha-3": "GNQ"
@@ -765,6 +770,11 @@
     "alpha-3": "NGA"
   },
   {
+    "name": "Northern Ireland",
+    "alpha-2": "GB",
+    "alpha-3": "GBR"
+  },
+  {
     "name": "Northern Mariana Islands",
     "alpha-2": "MP",
     "alpha-3": "MNP"
@@ -910,14 +920,14 @@
     "alpha-3": "STP"
   },
   {
-    "name": "Scotland",
-    "alpha-2": "GB",
-    "alpha-3": "GBR"
-  },
-  {
     "name": "Saudi Arabia",
     "alpha-2": "SA",
     "alpha-3": "SAU"
+  },
+  {
+    "name": "Scotland",
+    "alpha-2": "GB",
+    "alpha-3": "GBR"
   },
   {
     "name": "Senegal",
@@ -1167,7 +1177,12 @@
   {
     "name": "United Kingdom",
     "alpha-2": "GB",
-    "alpha-3": "GBR"
+    "alpha-3": "GBR",
+    "aliases": [
+      "Great Britain",
+      "Britain"
+    ],
+    "primary": true
   },
   {
     "name": "Uruguay",
