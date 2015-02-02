@@ -737,7 +737,8 @@
   {
     "name": "Netherlands Antilles (Caribbean)",
     "alpha-2": "AN",
-    "alpha-3": "ANT"
+    "alpha-3": "ANT",
+    "primary": true
   },
   {
     "name": "New Caledonia",
